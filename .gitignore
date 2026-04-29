@@ -1,4 +1,4 @@
-.first_venv
+.testiranje_venv
 .env
 inventory/.env
 payment/.env
